@@ -34,7 +34,7 @@ if shape == 'triangle':
 
     while side2 < 0:
 
-        side2 = input('Enter another side ')
+        side2 = input('Please enter another side ')
         side2 = int(side2)
 
     print('The area of the square is', height * base)
