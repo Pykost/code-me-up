@@ -1,4 +1,4 @@
-shape = input('please choose a shape . Triangle or square ')
+shape = input('Please choose a shape . Triangle or square ')
 
 if shape == 'triangle':
 
