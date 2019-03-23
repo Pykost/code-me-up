@@ -37,9 +37,9 @@ if shape == 'triangle':
         side2 = input('Please enter another side ')
         side2 = int(side2)
 
-    print('The area of the square is', height * base)
+    print('The area of the triangle is', height * base)
 
-    print('The perimeter of the square is', (base + side1 + side2))
+    print('The perimeter of the triangle is', (base + side1 + side2))
     #I took the height and 2 other sides because I wanted the perimeter of any triangle not just from a rectangulare
 
 elif shape == 'square':
