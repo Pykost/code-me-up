@@ -6,4 +6,3 @@
 - pyfile2.py : Finds area and perimeter of a given square or a triangle(same as above , just bored of copying it)
 - pyfile3.py : FizzBuzz project(multiples of 3 and 5)
 
-
